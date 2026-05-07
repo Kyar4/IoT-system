@@ -206,21 +206,15 @@ The system architecture was iteratively improved through debugging and real hard
 Firmware/
 ├── esp32_main/
 ├── esp32_cam/
-├── mqtt_handler/
-├── sensor_driver/
-├── relay_control/
-└── display_ui/
 
-AndroidApp/
+Android App/
 ├── activities/
 ├── mqtt_client/
 ├── ui/
 └── streaming/
 
-Hardware/
-├── schematic/
-├── pcb/
-└── images/
+Server/
+
 ```
 
 ---

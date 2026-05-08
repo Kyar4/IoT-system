@@ -130,6 +130,8 @@ A custom Android application was developed for:
 * Remote IoT management
 
 The application communicates with the ESP32 system through MQTT and HTTP services.
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/06a45422-6105-41ad-bd43-f9b09f0071c2" />
+
 
 ---
 
@@ -142,6 +144,8 @@ The system includes a local SPI TFT display for:
 * Sensor readings
 * Relay states
 * System information
+* <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/18166157-7123-4b58-8516-a3b7f2007e30" />
+
 
 ---
 
@@ -170,6 +174,7 @@ The system was tested under continuous operation conditions.
 * Responsive Android control interface
 * Stable ESP32-CAM streaming
 * Improved responsiveness using non-blocking firmware
+* 
 
 ---
 
@@ -221,14 +226,13 @@ Server/
 
 # Project Images
 
-Recommended repository contents:
-
 * ESP32 hardware setup
 * Android application screenshots
 * MQTT dashboard
 * ESP32-CAM streaming demo
 * TFT interface photos
 * PCB and schematic screenshots
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0a662b1e-2d14-4f31-9b73-1245a19f6d9a" />
 
 ---
 
